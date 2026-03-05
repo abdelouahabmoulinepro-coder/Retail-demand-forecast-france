@@ -48,7 +48,7 @@ macroeconomic shocks (e.g., COVID-19)
 
 ## Retail Demand Time Series
 
-![Retail demand index](Images/Retail trades volume index (france) monthly.png)
+![Retail demand index](Images/Retail_trades_volume_index_(france)_monthly.png)
 
 After cleaning the dataset, the time series was visualized to identify structural patterns.
 
@@ -339,6 +339,7 @@ scikit-learn
 ⬜ Phase 2 – SARIMAX with exogenous variables
 
 ⬜ Phase 3 – Forecast dashboard / visualization
+
 
 
 
