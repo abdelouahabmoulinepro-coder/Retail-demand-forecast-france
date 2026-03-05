@@ -154,13 +154,9 @@ First Difference Transformation
 −
 1
 ΔX
-t
-	​
-
+t	
 =X
-t
-	​
-
+t	​
 −X
 t−1
 	​
@@ -337,4 +333,5 @@ scikit-learn
 ✅ Phase 1 – Exploratory analysis & baseline models
 ⬜ Phase 2 – SARIMAX with exogenous variables
 ⬜ Phase 3 – Forecast dashboard / visualization
+
 
