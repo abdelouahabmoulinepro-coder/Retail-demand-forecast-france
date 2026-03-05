@@ -331,7 +331,10 @@ scikit-learn
 📌 Project Status
 
 ✅ Phase 1 – Exploratory analysis & baseline models
+
 ⬜ Phase 2 – SARIMAX with exogenous variables
+
 ⬜ Phase 3 – Forecast dashboard / visualization
+
 
 
