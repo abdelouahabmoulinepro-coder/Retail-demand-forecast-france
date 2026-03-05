@@ -109,6 +109,7 @@ The series was decomposed into its main components:
 𝑢
 𝑎
 𝑙
+
 Data=Trend+Seasonality+Residual
 
 Trend
@@ -336,3 +337,4 @@ scikit-learn
 ✅ Phase 1 – Exploratory analysis & baseline models
 ⬜ Phase 2 – SARIMAX with exogenous variables
 ⬜ Phase 3 – Forecast dashboard / visualization
+
