@@ -1,4 +1,4 @@
-📊 Forecasting Retail Demand in France
+# Forecasting Retail Demand in France  
 Time Series Analysis & Baseline Forecasting
 🧭 Project Overview
 
@@ -45,6 +45,10 @@ seasonal consumption patterns
 macroeconomic shocks (e.g., COVID-19)
 
 📈 Exploratory Data Analysis
+
+## Retail Demand Time Series
+
+![Retail demand index](Images/Retail trades volume index (france) monthly.png)
 
 After cleaning the dataset, the time series was visualized to identify structural patterns.
 
@@ -335,6 +339,7 @@ scikit-learn
 ⬜ Phase 2 – SARIMAX with exogenous variables
 
 ⬜ Phase 3 – Forecast dashboard / visualization
+
 
 
 
